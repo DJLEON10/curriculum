@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(151, 151, 216);
+}
+.inputn{
+    border-radius: 5px;
+    border: 3px solid black;
+}
+p{
+    font-size: 5vw;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+kbd{
+    border-radius: 1px;
+    border: 1px solid black;
+}
+a{
+    background-color: brown;
+}
+H1{
+    text-align: center;
+}
+h2{
+    display:flex;
+    justify-content: right ;
+   
+}
+.val{
+    border-radius: 1px;
+    border: 1px solid black;
+}
