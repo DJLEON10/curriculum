@@ -317,11 +317,12 @@ footer{
 @media screen and (max-width: 700px){
     .hamburguer{
         display: block;
+        
     }
 
     .enlaces-header{
         position: fixed;
-        background-color: #d03d3d;
+        background-color: #f8f8f8;
         top: 0;
         right: 0;
         width: 100%;
